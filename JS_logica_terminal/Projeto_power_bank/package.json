@@ -1,0 +1,12 @@
+{
+  "name": "projeto_power_bank",
+  "version": "1.0.0",
+  "description": "Projeto de estudo baseado na criação de um sistema bancário",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno_Santos",
+  "license": "ISC"
+}
